@@ -1,0 +1,337 @@
+body
+{
+   font-family: "Rubik", arial, sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 2;
+    color: gray;
+    }
+    .namecol
+    {
+    	color: #11cbd7;
+    }
+.header
+{
+ margin-top: 25px;
+     margin-bottom: 25px;
+}
+.top
+{
+ margin-top: -8px;
+}
+.aunderline:hover
+{
+ text-decoration: none;
+}
+.nav-link
+{
+ color: #000;
+}
+.nav-link:hover
+{
+ color: #000;
+}
+#imgwi
+{
+ width: 100%;
+ height: 500px;
+}
+.bgimg
+{
+ width: 100%;
+ height: 750px;
+ background-image: url(../img/slider.jpg);
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 254px;
+    text-align: center;
+    line-height: 55px;
+}
+#buts
+{
+background-color: #11cbd7 !important;
+border-color: #11cbd7;
+color: #fff;
+
+
+}
+#buts:hover
+{
+ background-color: #fff !important;
+border-color: #11cbd7;
+color: #000;
+
+}
+#butr
+{
+background-color: #11cbd7 !important;
+border-color: #11cbd7;
+color: #fff;
+width: 200px;
+ height: 60px;
+}
+#butr:hover
+{
+background-color: unset !important;
+border-color: #fff;
+color: #fff;
+
+}
+.fffcolor
+{
+ color: #fff;
+}
+#articl1
+{
+     width: 535px;
+    height: 325px;
+}
+.arth2
+{
+ font-size: 45px;
+  color: #11cbd7;
+}
+.maxwidth
+{
+ max-width: 450px;
+}
+.text-secondary
+{
+ font-family: "Rubik", arial, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 2;
+}
+.top80
+{
+	    padding-top: 80px;
+	    padding-bottom: 50px;
+}
+#readmore
+{
+	text-decoration: none;
+    padding-right: 20px;
+    text-transform: uppercase;
+    font-size: 13px;
+}
+.paddingleft
+{
+	    padding-left: 90px;
+
+}
+.popcorse
+{
+    padding-left: 75px;
+    text-align: center;
+}
+#imgsize3
+{
+	width: 100%;
+	height:255px;
+}
+.title
+{
+	font-size: 20px;
+	color: #000;
+	font-weight: 300;
+	text-decoration: none;
+
+}
+.title:hover
+{
+	color: #11cbd7;
+	font-weight: 300;
+	text-decoration: none;
+}
+.paratitle
+{
+	padding-right: 70px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding: 20px 70px 20px 0px;
+}
+.free
+{
+	float: right;
+	background: #11cbd7;
+    border-radius: 4px;
+    display: inline-block;
+    padding: 1px 10px;
+    color: #fff;
+}
+.border
+{
+	border: 2px solid #fff !important;
+	background: #fff;
+	padding-bottom: 20px;
+
+}
+.backgcolor
+{
+	background: #f8f9fa!important;
+}
+.personp
+{
+	text-align: center;
+	font-style: italic;
+	font-size: 18px;
+	color: #000;
+	padding: 25px;
+}
+.personimg
+{
+	width: 40px;
+	height: 40px;
+	border-radius:50%;
+	float: left; 
+}
+.personname
+{
+	display: block;
+	color: gray;
+    padding-left: 60px;
+
+}
+
+
+.ahref
+{
+	color: #000;
+text-decoration: none;
+}
+
+.ahref:hover
+{
+	color: #11cbd7 !important;
+	text-decoration: none;
+
+}
+.margintop20
+{
+	margin-top: 20px;
+}
+.iconcolor
+{
+	color: #b3b3b3;
+font-size: 13px;
+}
+.iconcolor:hover
+{
+	color: #000;
+	
+}
+.iconcolorblog
+{
+color: #b3b3b3;
+font-size: 15px;
+}
+.iconcolorblog:hover
+{
+	color: #000;
+	
+}
+.rotet
+{
+ -webkit-transform:rotateY(180deg);
+  -moz-transform:rotateY(180deg);
+  -o-transform:rotateY(180deg);
+  -ms-transform:rotateY(180deg);
+}
+.imgblog
+{
+	width: 155px;
+	height: 94px;
+}
+.subimg
+{
+		margin-bottom: 80px;
+
+}
+.sub
+{
+	margin-top: 0px;
+	margin-bottom: 95px;
+	max-height: 94px;
+}
+.borderblog
+{
+	    border: 2px solid #fff;
+    background: #fff;
+}
+.bgblue
+{
+	background-color: #11cbd7;
+}
+#butemail
+{
+margin: 10px;
+ background-color: #11cbd7;
+  border-color: #11cbd7;
+color: #fff;
+height: 50px;
+}
+#butemail:hover
+{
+	    border: 2px solid #11cbd7 !important;
+	    background: #fff;
+	    color: #000;
+}
+.inputemail
+{
+	background: #fff;
+}
+.paddingright
+{
+	    padding-right: 23px;
+}
+.colorlib
+{
+	color: #11cbd7!important;
+	text-decoration: none;
+}
+.colorlib:hover
+{
+	color:  gray!important;
+	text-decoration: none;
+}
+.titlefooter
+{
+	font-size: 18px;
+	font-weight: 300;
+}
+.divcontact
+{
+	margin-bottom: 50px; 
+}
+.iconcolorf
+{
+	color: #b3b3b3;
+	padding-right: 13px;
+
+}
+
+.iconcolorfc
+{
+color: #b3b3b3;
+padding-right: 13px;
+
+}
+.eduicon
+{
+	font-size: 50px;
+	color: gray;
+}
+.edunum
+{
+	font-size: 40px;
+    line-height: 1.5;
+    color: #11cbd7;
+}
+.edulabel
+{
+line-height: 1.5;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: #ccc;
+}
